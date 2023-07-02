@@ -354,3 +354,24 @@ p {
   font-family: var(--main--font);
   margin-top: 40px;
 }
+
+.custom-element {
+  width: 1200px;
+  height: 385px;
+  background-color: #2272ff36;
+}
+
+h3 {
+  font-family: Inter, sans-serif;
+  margin: 20px 0px;
+}
+.inputtext {
+  margin: 100px 0px;
+}
+.inbutton {
+  padding: 13px 34px 13px 34px;
+  border-radius: 20px;
+  background-color: #2272ff;
+  margin: 50px 520px;
+  cursor: pointer;
+}
