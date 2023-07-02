@@ -17,3 +17,11 @@ function toggleAnswer(id) {
     answer.style.display = "none";
   }
 }
+const textInput = document.getElementById("text-input");
+
+function getText() {
+  const text = textInput.value;
+  console.log(text);
+}
+
+button.addEventListener("click", getText);
